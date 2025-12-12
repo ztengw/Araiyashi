@@ -1,5 +1,5 @@
 # Araiyashi
-#### Remember to wear  headphones
+### Remember to wear  headphones
 Ghost Story-based game with a little visual novel. You read the story and also try to defend the ghost with games.
 
 About
